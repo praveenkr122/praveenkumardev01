@@ -1,0 +1,7 @@
+- 👋 Hi, I’m praveen kumar
+-  I’m interested in Software development...
+-  I have skilled in java,j2ee,spring,spring boot,hibernate,rest api....
+-  more skill like c,c++,html,css,javascript,bootstrap
+-  databases: sql,rdbms,nosql
+-  Solved 200+ problem of data structure
+- 📫 you can reach me at 9019282431 or praveenkumar.careerdev@gmail.com
